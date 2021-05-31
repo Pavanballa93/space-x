@@ -1,0 +1,36 @@
+.Launch {
+  height: 200px;
+  width: 1000px;
+  padding: 8px;
+  display: flex;
+  box-shadow: 1px 1px 9px 1px darkgrey;
+  cursor: pointer;
+  /* Remove it */
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.Launch img{
+   height: 200px;
+   width: 200px;
+}
+.content {
+    margin-left: 20px;
+    color: cadetblue;
+    font-size: 14px;
+    width: 80%;
+}
+
+.content .info {
+    display: flex;
+    justify-content: space-between;
+}
+.content p {
+    font-size: 20px;
+    display: -webkit-box;
+    line-height: 30px;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+     margin-top: 20px;
+     color: grey;
+}
