@@ -27,7 +27,7 @@
     display: -webkit-box;
     line-height: 30px;
     overflow: hidden;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
      margin-top: 20px;
      color: grey;

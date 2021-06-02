@@ -1,5 +1,5 @@
 .Launch-list {
-   width: 800px;
+   width: 900px;
    margin: auto;
    padding-top: 50px;
    padding-bottom: 50px;
@@ -7,3 +7,4 @@
 .Launch-list .Launch {
     margin-bottom: 30px;
 }
+
