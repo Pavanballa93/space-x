@@ -1,11 +1,9 @@
- .Launch-List {
-    
-    width: 800px;
-    margin: auto;
-    padding-bottom: 50px;
-    padding-top: 50px;
- }
-
- .Launch-List .Launch {
-     margin-bottom: 30px;
- }
+.Launch-list {
+   width: 800px;
+   margin: auto;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.Launch-list .Launch {
+    margin-bottom: 30px;
+}
