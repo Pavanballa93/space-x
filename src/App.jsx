@@ -4,7 +4,7 @@ import { Header }  from './components/Header/Header';
 
 
 import { LaunchList } from './components/LaunchList/LaunchList';
-import { Launchview } from './components/Launchview/Launchview';
+import  Launchview  from './components/Launchview/Launchview';
 import {
   BrowserRouter as Router,
   Switch,
