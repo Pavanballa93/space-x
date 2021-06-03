@@ -15,3 +15,10 @@
 .launch-view .launch-description {
     color: gray;
 }
+.launch-view img {
+    width: 900px;
+    height: 600px;
+}
+.launch-view p {
+    font-size: 20px;
+}
