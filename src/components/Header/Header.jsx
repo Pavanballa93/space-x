@@ -5,7 +5,7 @@ export class Header extends React.Component {
 render() {
  return (
     <div className="Header">
-   <h1> welcome to space-x </h1>
+   <h1> welcome to space-x-i </h1>
     </div>
   )
  }
